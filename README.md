@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+  <img src="https://raw.githubusercontent.com/gaeljacquin/gaeljacquin/main/gh-header.png" alt="Gaël's banner with logo">
 
 <!--
 **gaeljacquin/gaeljacquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
