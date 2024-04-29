@@ -16,12 +16,11 @@
 
 # 🚀 Current hijinks
 <ul>
-  <li>Actively building <a href="https://github.com/gaeljacquin/yt-dlp-gui">yt-dlp GUI</a> - a cross platform audio/video downloader and client for <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a></li>
-  <li>Working out</li>
-  <li>Learning Go</li>
-  <li>Finding the best deals on Steam 🤑</li>
+  <li>Actively developing <a href="https://github.com/gaeljacquin/media-downloader">Media Downloader</a></li>
   <li>Gaming</li>
-  <li>Working with a designer on an upcoming project</li>
+  <li>Finding the best deals on Steam 🤑</li>
+  <li>Working out</li>
+  <li id="upcoming">Collaborating with a designer on an upcoming project</li>
 </ul>
 
 <br>
@@ -32,6 +31,7 @@
   <li>Outline ideas for my first game</li>
   <li>Test the Unreal Engine waters</li>
   <li>Start a blog</li>
+  <li><a href="#upcoming">Stay with Go or pick up Kotlin</a></li>
 </ul>
 
 <br>
@@ -39,4 +39,4 @@
 # 📫 Let's chat
 You may connect with me on [LinkedIn <image src="https://ahacverhpougzlzojfyo.supabase.co/storage/v1/object/public/Uncategorized/linkedin2.svg" width=16>](https://linkedin.com/in/gaeljacquin)
 
-<!-- I'm also looking for SSBU sparring partners online so feel free to DM me your friend code! I main 🤖 btw -->
+<!-- I'm also looking for SSBU sparring partners online so feel free to DM me your friend code! -->
