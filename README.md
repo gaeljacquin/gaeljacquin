@@ -11,7 +11,6 @@
 - Software engineer
 - Video game enthusiast
 - Board game amateur
-- Cat & dog lover
 - Occasional adventurer
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/gaeljacquin)
