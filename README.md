@@ -30,16 +30,8 @@
 **_<div align="center">_**
   Building a startup  
   ~~Making web games~~  
-  ~~Competing in a hackathon~~  
-  Looking for paid gigs
+  ~~Competing in a hackathon~~
 **_</div>_**
-
-<div align="center" style="margin-bottom: 20px;">
-  <details>
-    <summary>Click to expand/collapse</summary>
-    Learning event sourcing, event-driven & microservices architectures  
-  </details>
-</div>
 
 ---
 
@@ -54,12 +46,12 @@
         <th>Languages</th>
         <th>Frameworks/Libraries</th>
         <th>Miscellaneous</th>
-        <th>Design</th>
+        <th>Design*</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>TypeScript<br>JavaScript<br>Python (for Leetcode riddles)<br>Kotlin (want to learn)<br>Go (willing to learn)<br><br></td>
+        <td>TypeScript<br>JavaScript<br>Python (for Leetcode riddles)<br>Kotlin (want to learn)<br><br></td>
         <td>NestJS<br>Next.js<br>React<br>Tailwind CSS<br>Zustand<br>dnd kit<br></td>
         <td>Node.js<br>AWS<br>Docker<br>Git<br>Visual Studio Code<br>Shell</td>
         <td>Canva<br>Lottie<br>Inkscape<br>GIMP<br><br><br></td>
