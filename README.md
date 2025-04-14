@@ -36,7 +36,7 @@
 ---
 
 **_<div align="center">_**
-#### A non-exhaustive list of tools and technologies I use/want to learn/wouldn't mind picking up
+#### A non-exhaustive list of tools and technologies I use/want to learn
 **_</div>_**
 
 <div align="center" style="margin-bottom: 30px;">
@@ -46,14 +46,14 @@
         <th>Languages</th>
         <th>Frameworks/Libraries</th>
         <th>Miscellaneous</th>
-        <th>Design*</th>
+        <th>Design</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>TypeScript<br>JavaScript<br>Python (for Leetcode riddles)<br>Kotlin (want to learn)<br><br></td>
+        <td>TypeScript<br>JavaScript<br>Python (for Leetcode riddles)<br>Go (want to learn)<br><br></td>
         <td>NestJS<br>Next.js<br>React<br>Tailwind CSS<br>Zustand<br>dnd kit<br></td>
-        <td>Node.js<br>AWS<br>Docker<br>Git<br>Visual Studio Code<br>Shell</td>
+        <td>Node.js<br>AWS<br>Docker<br>Git<br>GitHub Actions</td>
         <td>Canva<br>Lottie<br>Inkscape<br>GIMP<br><br><br></td>
       </tr>
     </tbody>
